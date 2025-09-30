@@ -1,0 +1,10 @@
+Simian Similarity Analyzer 4.0.0 - https://simian.quandarypeak.com
+Copyright (c) 2023 Quandary Peak Research. All rights reserved.
+Subject to the Quandary Peak Academic Software License.
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="simian.xsl" type="text/xsl"?>
+<simian version="4.0.0">
+    <check failOnDuplication="true" ignoreCharacterCase="true" ignoreCurlyBraces="true" ignoreIdentifierCase="true" ignoreModifiers="true" ignoreStringCase="true" threshold="6">
+        <summary duplicateFileCount="0" duplicateLineCount="0" duplicateBlockCount="0" totalFileCount="2" totalRawLineCount="2" totalSignificantLineCount="2" processingTime="6"/>
+    </check>
+</simian>
